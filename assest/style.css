@@ -1,0 +1,45 @@
+h1{
+    color: #109e97;
+    text-align: center;
+}
+.price1{
+    color: #008000;
+    font-size: larger;
+}
+.price2{
+    color: #ff0000;
+    font-size: smaller;
+}
+.image{
+    margin-top: 18px;
+    margin-bottom: 4px;
+}
+.short-content{
+    text-align: right;
+    background-color: black;
+    color: #fff;
+}
+.comment{
+    padding-left:  50px;
+}
+.button button{
+    color: #fff;
+    background-color: #008000;
+    margin-left: 80px;
+
+}
+.links{
+    padding-left: 20px;
+}
+.borders{
+    width: 100%;
+}
+.footer{
+    text-align: center;
+    background-color: #008000;
+    color: #fff;
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    border:none;
+}
